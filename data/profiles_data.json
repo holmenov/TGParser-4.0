@@ -1,0 +1,222 @@
+{
+    "1": {
+        "proxies": [],
+        "active": false,
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.2.4462.46 Safari/537.36",
+        "category": "all",
+        "location": "global",
+        "channels_for_parsing": 100,
+        "telegram_sessions": [],
+        "telemetr_t_jwt": null,
+        "telemetr_t_jwtr": null,
+        "views": [
+            null,
+            null
+        ],
+        "subscribers": [
+            null,
+            null
+        ],
+        "telemetr_profile_verified": false,
+        "tgstat_idrk": null,
+        "tgstat_profile_verified": false
+    },
+    "2": {
+        "proxies": [],
+        "active": false,
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.6.5724.89 Safari/537.36",
+        "category": "all",
+        "location": "global",
+        "channels_for_parsing": 100,
+        "telegram_sessions": [],
+        "telemetr_t_jwt": null,
+        "telemetr_t_jwtr": null,
+        "views": [
+            null,
+            null
+        ],
+        "subscribers": [
+            null,
+            null
+        ],
+        "telemetr_profile_verified": false,
+        "tgstat_idrk": null,
+        "tgstat_profile_verified": false
+    },
+    "3": {
+        "proxies": [],
+        "active": false,
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.8.5846.130 Safari/537.36",
+        "category": "all",
+        "location": "global",
+        "channels_for_parsing": 100,
+        "telegram_sessions": [],
+        "telemetr_t_jwt": null,
+        "telemetr_t_jwtr": null,
+        "views": [
+            null,
+            null
+        ],
+        "subscribers": [
+            null,
+            null
+        ],
+        "telemetr_profile_verified": false,
+        "tgstat_idrk": null,
+        "tgstat_profile_verified": false
+    },
+    "4": {
+        "proxies": [],
+        "active": false,
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.5.4249.128 Safari/537.36",
+        "category": "all",
+        "location": "global",
+        "channels_for_parsing": 100,
+        "telegram_sessions": [],
+        "telemetr_t_jwt": null,
+        "telemetr_t_jwtr": null,
+        "views": [
+            null,
+            null
+        ],
+        "subscribers": [
+            null,
+            null
+        ],
+        "telemetr_profile_verified": false,
+        "tgstat_idrk": null,
+        "tgstat_profile_verified": false
+    },
+    "5": {
+        "proxies": [],
+        "active": false,
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.2.4552.172 Safari/537.36",
+        "category": "all",
+        "location": "global",
+        "channels_for_parsing": 100,
+        "telegram_sessions": [],
+        "telemetr_t_jwt": null,
+        "telemetr_t_jwtr": null,
+        "views": [
+            null,
+            null
+        ],
+        "subscribers": [
+            null,
+            null
+        ],
+        "telemetr_profile_verified": false,
+        "tgstat_idrk": null,
+        "tgstat_profile_verified": false
+    },
+    "6": {
+        "proxies": [],
+        "active": false,
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.7.4922.27 Safari/537.36",
+        "category": "all",
+        "location": "global",
+        "channels_for_parsing": 100,
+        "telegram_sessions": [],
+        "telemetr_t_jwt": null,
+        "telemetr_t_jwtr": null,
+        "views": [
+            null,
+            null
+        ],
+        "subscribers": [
+            null,
+            null
+        ],
+        "telemetr_profile_verified": false,
+        "tgstat_idrk": null,
+        "tgstat_profile_verified": false
+    },
+    "7": {
+        "proxies": [],
+        "active": false,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.6.3640.120 Safari/537.36",
+        "category": "all",
+        "location": "global",
+        "channels_for_parsing": 100,
+        "telegram_sessions": [],
+        "telemetr_t_jwt": null,
+        "telemetr_t_jwtr": null,
+        "views": [
+            null,
+            null
+        ],
+        "subscribers": [
+            null,
+            null
+        ],
+        "telemetr_profile_verified": false,
+        "tgstat_idrk": null,
+        "tgstat_profile_verified": false
+    },
+    "8": {
+        "proxies": [],
+        "active": false,
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.6.3686.14 Safari/537.36",
+        "category": "all",
+        "location": "global",
+        "channels_for_parsing": 100,
+        "telegram_sessions": [],
+        "telemetr_t_jwt": null,
+        "telemetr_t_jwtr": null,
+        "views": [
+            null,
+            null
+        ],
+        "subscribers": [
+            null,
+            null
+        ],
+        "telemetr_profile_verified": false,
+        "tgstat_idrk": null,
+        "tgstat_profile_verified": false
+    },
+    "9": {
+        "proxies": [],
+        "active": false,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.2.3953.150 Safari/537.36",
+        "category": "all",
+        "location": "global",
+        "channels_for_parsing": 100,
+        "telegram_sessions": [],
+        "telemetr_t_jwt": null,
+        "telemetr_t_jwtr": null,
+        "views": [
+            null,
+            null
+        ],
+        "subscribers": [
+            null,
+            null
+        ],
+        "telemetr_profile_verified": false,
+        "tgstat_idrk": null,
+        "tgstat_profile_verified": false
+    },
+    "10": {
+        "proxies": [],
+        "active": false,
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.3.4582.181 Safari/537.36",
+        "category": "all",
+        "location": "global",
+        "channels_for_parsing": 100,
+        "telegram_sessions": [],
+        "telemetr_t_jwt": null,
+        "telemetr_t_jwtr": null,
+        "views": [
+            null,
+            null
+        ],
+        "subscribers": [
+            null,
+            null
+        ],
+        "telemetr_profile_verified": false,
+        "tgstat_idrk": null,
+        "tgstat_profile_verified": false
+    }
+}

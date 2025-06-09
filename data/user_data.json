@@ -1,0 +1,29 @@
+{
+    "settings": {
+        "awaiting_comment_seconds": [
+            3,
+            5
+        ],
+        "awaiting_between_channels": [
+            2,
+            4
+        ],
+        "rate_limit_wait_seconds": [
+            300,
+            300
+        ],
+        "check_comments_status": true,
+        "check_antispam_bot": true,
+        "delete_comments": true,
+        "telegram_text": "{Привет|Здравствуйте|Спасибо}!",
+        "skip_private_channels": true,
+        "sound_notifications": false,
+        "telegram_notifications": false,
+        "telegram_bot_token": "",
+        "telegram_user_id": "",
+        "version": "1.0.0",
+        "welcome_guide": false,
+        "boost_mode": false,
+        "channels_catalog": "tgstat"
+    }
+}
