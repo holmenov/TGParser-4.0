@@ -21,9 +21,12 @@
         "telegram_notifications": false,
         "telegram_bot_token": "",
         "telegram_user_id": "",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "welcome_guide": false,
         "boost_mode": false,
-        "channels_catalog": "tgstat"
+        "channels_catalog": "tgstat",
+        "save_debug_responses": false,
+        "rucaptcha_api_key": "",
+        "auto_solve_captcha": true
     }
 }
