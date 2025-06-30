@@ -19,7 +19,8 @@
         ],
         "telemetr_profile_verified": false,
         "tgstat_idrk": null,
-        "tgstat_profile_verified": false
+        "tgstat_profile_verified": false,
+        "min_last_post_date": null
     },
     "2": {
         "proxies": [],
@@ -41,7 +42,8 @@
         ],
         "telemetr_profile_verified": false,
         "tgstat_idrk": null,
-        "tgstat_profile_verified": false
+        "tgstat_profile_verified": false,
+        "min_last_post_date": null
     },
     "3": {
         "proxies": [],
@@ -63,7 +65,8 @@
         ],
         "telemetr_profile_verified": false,
         "tgstat_idrk": null,
-        "tgstat_profile_verified": false
+        "tgstat_profile_verified": false,
+        "min_last_post_date": null
     },
     "4": {
         "proxies": [],
@@ -85,7 +88,8 @@
         ],
         "telemetr_profile_verified": false,
         "tgstat_idrk": null,
-        "tgstat_profile_verified": false
+        "tgstat_profile_verified": false,
+        "min_last_post_date": null
     },
     "5": {
         "proxies": [],
@@ -107,7 +111,8 @@
         ],
         "telemetr_profile_verified": false,
         "tgstat_idrk": null,
-        "tgstat_profile_verified": false
+        "tgstat_profile_verified": false,
+        "min_last_post_date": null
     },
     "6": {
         "proxies": [],
@@ -129,7 +134,8 @@
         ],
         "telemetr_profile_verified": false,
         "tgstat_idrk": null,
-        "tgstat_profile_verified": false
+        "tgstat_profile_verified": false,
+        "min_last_post_date": null
     },
     "7": {
         "proxies": [],
@@ -151,7 +157,8 @@
         ],
         "telemetr_profile_verified": false,
         "tgstat_idrk": null,
-        "tgstat_profile_verified": false
+        "tgstat_profile_verified": false,
+        "min_last_post_date": null
     },
     "8": {
         "proxies": [],
@@ -173,7 +180,8 @@
         ],
         "telemetr_profile_verified": false,
         "tgstat_idrk": null,
-        "tgstat_profile_verified": false
+        "tgstat_profile_verified": false,
+        "min_last_post_date": null
     },
     "9": {
         "proxies": [],
@@ -195,7 +203,8 @@
         ],
         "telemetr_profile_verified": false,
         "tgstat_idrk": null,
-        "tgstat_profile_verified": false
+        "tgstat_profile_verified": false,
+        "min_last_post_date": null
     },
     "10": {
         "proxies": [],
@@ -217,6 +226,7 @@
         ],
         "telemetr_profile_verified": false,
         "tgstat_idrk": null,
-        "tgstat_profile_verified": false
+        "tgstat_profile_verified": false,
+        "min_last_post_date": null
     }
 }
