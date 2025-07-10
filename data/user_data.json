@@ -21,7 +21,7 @@
         "telegram_notifications": false,
         "telegram_bot_token": "",
         "telegram_user_id": "",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "welcome_guide": false,
         "boost_mode": false,
         "channels_catalog": "tgstat",
