@@ -12,6 +12,10 @@
             300,
             300
         ],
+        "awaiting_between_catalog_requests": [
+            1,
+            2
+        ],
         "check_comments_status": true,
         "check_antispam_bot": true,
         "delete_comments": true,
@@ -21,7 +25,7 @@
         "telegram_notifications": false,
         "telegram_bot_token": "",
         "telegram_user_id": "",
-        "version": "1.2.1",
+        "version": "1.2.2",
         "welcome_guide": false,
         "boost_mode": false,
         "channels_catalog": "tgstat",
