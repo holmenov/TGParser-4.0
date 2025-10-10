@@ -24,7 +24,7 @@
         "telegram_notifications": false,
         "telegram_bot_token": "",
         "telegram_user_id": "",
-        "version": "1.4.3",
+        "version": "1.4.4",
         "welcome_guide": false,
         "boost_mode": false,
         "channels_catalog": "tgstat",
@@ -36,6 +36,7 @@
         "telegram_api_id": "",
         "telegram_api_hash": "",
         "auto_switch_on_spamblock": true,
-        "spamblock_confirm_threshold": 3
+        "spamblock_confirm_threshold": 3,
+        "dev_mode": false
     }
 }
